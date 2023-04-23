@@ -6,7 +6,7 @@ El boilerplate cuenta con dos carpetas: `api` y `client`. En estas carpetas esta
 
 
 ##  Configuración inicial 
-- Ejecutar `npm Install` desde la carpeta `api` y `client`, para instalar las dependencias necesarias para correr el test
+- Ejecutar `npm Install` desde la carpeta `api` y `client`, para instalar las dependencias necesarias para correr el proyecto
 
 ##  Instructions
 - Correr el servidor del back con `npm run start` desde la carpeta `api`
