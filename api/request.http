@@ -22,5 +22,3 @@ Content-Type: application/json
     "price":""
 }
 
-###
-DELETE http://localhost:9000/api/products/6440ca6af372627933244296 HTTP/1.1
